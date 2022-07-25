@@ -20,7 +20,7 @@ U-Short is a program you can use to make your phishing links more trustable. Loo
 <p> pkg install git </p>
 <p> git clone https://github.com/Fugitif-vector/U-Short</p>
 
-<p><i>Or use the simple command:</i></p>
+<p><i><u>Or use the simple command:</u></i></p>
 <p> apt update; apt upgrade -y; pkg install python -y; pkg install git -y; git clone https://github.com/Fugitif-vector/U-Short</p> 
 
 ### [+] Usage
@@ -30,3 +30,6 @@ U-Short is a program you can use to make your phishing links more trustable. Loo
 <i>If this program helps you, don't hesitate to give me a star and follow me, it encourages me! </i>
 
 ### [+] Contact me
+
+<p> Facebook : ![Kali Ubuntu](https://www.facebook.com/profile.php?id=100082908991551</p>
+<p> E-mail : teamfugitifdev.h4ck@gmail.com</p>
