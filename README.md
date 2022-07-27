@@ -17,11 +17,12 @@ U-Short is a program you can use to make your phishing links more trustable. Loo
 <li><code> apt update </code></li>
 <li><code> apt upgrade </code></li>
 <li><code> pkg install python </code></li>
+<li><code> pip install requests </li></code>
 <li><code> pkg install git </code></li>
 <li><code> git clone https://github.com/Fugitif-vector/U-Short</code></li>
 
 <p><i><u>Or use the simple command:</u></i></p>
-<li><code> apt update; apt upgrade -y; pkg install python -y; pkg install git -y; git clone https://github.com/Fugitif-vector/U-Short</code></li>
+<li><code> apt update; apt upgrade -y; pkg install python -y; pip install requests; pkg install git -y; git clone https://github.com/Fugitif-vector/U-Short</code></li>
 
 ### [+] Usage
 <li><code> cd U-Short</code></li>
